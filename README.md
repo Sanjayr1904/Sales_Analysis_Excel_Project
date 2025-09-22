@@ -7,7 +7,7 @@ It includes KPIs like **total sales, profit, quantity sold, and regional perform
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](images/Sales_Dashboard.png)
+![Sales Dashboard](images/Sales Dashboard.png)
 
 ---
 
