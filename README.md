@@ -11,19 +11,14 @@ It includes KPIs like **total sales, profit, quantity sold, and regional perform
 ### Full Dashboard
 ![Sales Dashboard](images/Sales_Dashboard.png)
 
-### Category Analysis
-![Category Analysis](images/category_analysis.png)
+### Maximum Sales in Sales
+![Category Analysis](images/Max_Sales_in_Channels.png)
 
-### Regional Performance
-![Regional Performance](images/regional_performance.png)
+### Sales Based on Gender and Age
+![Regional Performance](images/Sales_Based_on_gender.png)
 
-### Sales Trend
-![Sales Trend](images/sales_trend.png)
-
-### Top Products
-![Top Products](images/top_products.png)
-
-![Sales Dashboard](images/Sales_Dashboard.png)
+### Top States in Sales 
+![Regional Performance](images/Top_States.png)
 
 ---
 
