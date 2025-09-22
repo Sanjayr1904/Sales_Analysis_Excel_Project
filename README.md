@@ -7,6 +7,22 @@ It includes KPIs like **total sales, profit, quantity sold, and regional perform
 ---
 
 ## 📸 Dashboard Preview
+
+### Full Dashboard
+![Sales Dashboard](images/Sales_Dashboard.png)
+
+### Category Analysis
+![Category Analysis](images/category_analysis.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+### Sales Trend
+![Sales Trend](images/sales_trend.png)
+
+### Top Products
+![Top Products](images/top_products.png)
+
 ![Sales Dashboard](images/Sales_Dashboard.png)
 
 ---
