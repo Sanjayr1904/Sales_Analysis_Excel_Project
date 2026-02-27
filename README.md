@@ -24,8 +24,7 @@ It includes KPIs like **total sales, profit, quantity sold, and regional perform
 
 ## 📥 Download Project File
 
-- [📥 Sales Anaysis dashboard.xlsx](https://github.com/Sanjayr1904/Sales_Analysis_Excel_Project-Sales_Analysis.xlsx)
-
+- [📥 Sales Anaysis dashboard.xlsx](https://github.com/Sanjayr1904/Sales_Analysis_Excel_Project/raw/main/Sales_Analysis.xlsx)
 ---
 
 ## 🔗 Connect with Me
